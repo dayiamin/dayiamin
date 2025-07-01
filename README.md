@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm dayiamin or Amin 
 
-<!--
-**dayiamin/dayiamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Golang and Python developer with hands-on experience in:
 
-Here are some ideas to get you started:
+- 🐍 Building clustering and machine learning models in Python
+- ⚡ Writing efficient and fast web scraping tools in Golang
+- 🛠️ Scripting automation in both Python and Golang
+- 👕 Developing and managing my own WooCommerce WordPress site to sell my t-shirt brand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Languages: **Go (Golang), Python**
+- Skills: Machine Learning, Clustering, Web Scraping, Automation, E-commerce (WooCommerce, WordPress)
+
+## 🌱 Currently Learning
+
+- Back end development in Golang
+- Writing APIs and building microservices with Go
+- Other technologies in the Go backend ecosystem
+- Advanced Go concurrency patterns
+- Latest trends in machine learning and data science
+
+## 📫 Contact Me
+
+- [DustyLand](https://dustyland.ir) 
+- [Email](dayiamin96@gmail.com) 
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my repositories or connect with me.
